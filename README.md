@@ -5,6 +5,7 @@
   </a>
 </div>
 <!-- ![Banner Image](./Images/Banner.png) -->
+
 ## About Me:
 I am based in London, UK.
 
