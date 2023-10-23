@@ -1,6 +1,6 @@
 <!-- Adding banner image -->
 <div style="width: 100%;">
-  <img src="./Images/BannerAnimated.svg" style="width: 100%;" alt="Click to see the source">
+  <img src="https://github.com/Lenakeiz/Lenakeiz/blame/main/Images/BannerAnimated.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
 <!-- ![Banner Image](./Images/Banner.png) 
