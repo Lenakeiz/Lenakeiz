@@ -4,10 +4,7 @@
     <img src="./Images/BannerAnimated.svg" style="width: 100%;" alt="Source">
   </a>
 </div>
-
-
 <!-- ![Banner Image](./Images/Banner.png) -->
-
 ## About Me:
 I am based in London, UK.
 
