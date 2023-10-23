@@ -6,7 +6,7 @@
 </div>
 
 
-<!-- ![Banner Image](./Images/Banner.png) 
+<!-- ![Banner Image](./Images/Banner.png) -->
 
 ## About Me:
 I am based in London, UK.
@@ -17,4 +17,3 @@ I am based in London, UK.
 <h3>📫 Where to find me</h3>
 <p><a href="https://twitter.com/lenakeiz" target="_blank"><img alt="X/Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fshields.io&style=social&logoColor=blue&label=Lenakeiz"/></a> <a href="https://uk.linkedin.com/in/acastegnaro" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fshields.io&style=social&logo=linkedin&label=LinkedIn" /></a>
 </p>
--->
