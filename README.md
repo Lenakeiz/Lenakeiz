@@ -32,6 +32,5 @@ I am based in London, UK.
   <img alt="Lenakeiz's Most Used Languages" src=https://github-readme-stats-git-master-andreas-projects-2bcbd98c.vercel.app/api/top-langs?username=Lenakeiz&layout=compact&title_color=ff652f&bg_color=09131B&theme=theme&text_color=ffffff&border_color=0c1a25) />
 </details>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Lenakeiz)](https://git.io/streak-stats)
 
 
