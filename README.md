@@ -21,15 +21,15 @@ I am based in London, UK.
 <details>
   <summary>:zap: Stats</summary>
 
-  <img alt="Lenakeiz's GitHub Stats" src="https://github-readme-stats-git-master-andreas-projects-2bcbd98c.vercel.app/api?username=Lenakeiz&show_icons=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img alt="Lenakeiz's GitHub Stats" src="https://github-readme-stats-git-master-andreas-projects-2bcbd98c.vercel.app/api?username=Lenakeiz&show_icons=true&border_radius=25&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=ffffff" />
 
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Lenakeiz&theme=dark&border_radius=51&card_width=150&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+  <a><img src="https://streak-stats.demolab.com?user=Lenakeiz&theme=dark&border_radius=25&fire=ff652f&ring=ff652f&currStreakLabel=FFE400&card_width=150&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-  <img alt="Lenakeiz's Most Used Languages" src=https://github-readme-stats-git-master-andreas-projects-2bcbd98c.vercel.app/api/top-langs?username=Lenakeiz&layout=compact&title_color=ff652f&bg_color=09131B&theme=theme&text_color=ffffff&border_color=0c1a25) />
+  <img alt="Lenakeiz's Most Used Languages" src=https://github-readme-stats-git-master-andreas-projects-2bcbd98c.vercel.app/api/top-langs?username=Lenakeiz&border_radius=25&layout=compact&title_color=ff652f&bg_color=09131B&theme=theme&text_color=ffffff&border_color=0c1a25) />
 </details>
 
 
