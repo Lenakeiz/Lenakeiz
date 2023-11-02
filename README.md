@@ -21,7 +21,7 @@ I am based in London, UK.
 <details>
   <summary>:zap: Stats</summary>
   <img style="margin-right: 150px;" alt="Lenakeiz's GitHub Stats" src="https://github-readme-stats-git-master-andreas-projects-2bcbd98c.vercel.app/api?username=Lenakeiz&show_icons=true&border_radius=25&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=ffffff" />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-seven-rouge.vercel.app?user=Lenakeiz&theme=dark&border_radius=25&fire=ff652f&background=09131B&ring=ff652f&currStreakLabel=FFE400&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-seven-rouge.vercel.app?user=Lenakeiz&theme=dark&border_radius=25&card_width=150&fire=ff652f&background=09131B&ring=ff652f&currStreakLabel=FFE400&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 </details>
 
 <details>
