@@ -26,13 +26,13 @@ I am based in London, UK.
       <td>
         <img
           alt="GitHub Stats"
-          src="https://github-readme-stats-fast-three.vercel.app/api?username=Lenakeiz&show_icons=true&border_radius=25&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=ffffff"
+          src="https://github-readme-stats-fast-three.vercel.app/api?username=Lenakeiz&&theme=radical"
         />
       </td>
       <td>
         <img
           alt="GitHub Streak"
-          src="https://github-readme-stats-fast-three.vercel.app/api/streak?username=Lenakeiz&border_radius=25&fire=ff652f&background=09131B&ring=ff652f&currStreakLabel=FFE400"
+          src="https://github-readme-stats-fast-three.vercel.app/api/streak?username=Lenakeiz&theme=radical"
         />
       </td>
     </tr>
