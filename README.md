@@ -6,7 +6,7 @@
 </div>
 <!-- ![Banner Image](./Images/Banner.png) -->
 
-## About Me:
+## About Me
 I am based in London, UK.
 
 - 📚  Leveraging XR technologies, I develop diagnostic tools aimed at the early detection of Alzheimer's disease.
