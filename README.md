@@ -19,14 +19,30 @@ I am based in London, UK.
 ---
 
 <details>
-  <summary>:zap: Stats</summary>
-  <img style="margin-right: 150px;" alt="Lenakeiz's GitHub Stats" src="https://github-readme-stats-fast-git-main-andreas-projects-2bcbd98c.vercel.app/api?username=Lenakeiz&show_icons=true&border_radius=25&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=ffffff" />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-seven-rouge.vercel.app?user=Lenakeiz&theme=dark&border_radius=25&card_width=150&fire=ff652f&background=09131B&ring=ff652f&currStreakLabel=FFE400&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+  <summary>⚡ Stats</summary>
+
+  <table>
+    <tr>
+      <td>
+        <img
+          alt="GitHub Stats"
+          src="https://github-readme-stats-fast-three.vercel.app/api?username=Lenakeiz&show_icons=true&border_radius=25&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=ffffff"
+        />
+      </td>
+      <td>
+        <img
+          alt="GitHub Streak"
+          src="https://github-readme-stats-fast-three.vercel.app/api/streak?username=Lenakeiz&border_radius=25&fire=ff652f&background=09131B&ring=ff652f&currStreakLabel=FFE400"
+        />
+      </td>
+    </tr>
+  </table>
+
 </details>
 
 <details>
   <summary>⚡ Most Used Languages</summary>
 
-  ![Most Used Languages](https://github-readme-stats-fast-three.vercel.app/api/top-langs?username=Lenakeiz&layout=compact&theme=radical)
+  ![Most Used Languages](https://github-readme-stats-fast-three.vercel.app/api/top-langs?username=Lenakeiz&theme=radical)
 
 </details>
