@@ -25,9 +25,8 @@ I am based in London, UK.
 </details>
 
 <details>
-  <summary>:zap: Most Used Languages</summary>
-  <a>
-    <img alt="Lenakeiz's Most Used Languages"
-         src="https://github-readme-stats-fast-git-main-andreas-projects-2bcbd98c.vercel.app/api/top-langs?username=Lenakeiz&layout=compact&theme=radical" />
-  </a>
+  <summary>⚡ Most Used Languages</summary>
+
+  ![Most Used Languages](https://github-readme-stats-fast-three.vercel.app/api/top-langs?username=Lenakeiz&layout=compact&theme=radical)
+
 </details>
