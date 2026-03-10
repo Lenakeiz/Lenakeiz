@@ -13,6 +13,7 @@ I am based in London, UK.
 - 💼 I collaborate with game development companies, offering insights grounded in industry expertise.
 - 🎓 In my free time, I am learning ✨shaders✨.
 <h3>📫 Where to find me</h3>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://uk.linkedin.com/in/acastegnaro)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:andrea.castegnaro@outlook.com)
 
