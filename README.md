@@ -18,14 +18,14 @@ I am based in London, UK.
     <img alt="Email"
          src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/maildotru.svg"
          height="28"
-         style="border:0; text-decoration:none;"/>
+         style="display:block;">
   </a>
   &nbsp;&nbsp;
   <a href="https://uk.linkedin.com/in/acastegnaro">
     <img alt="LinkedIn"
          src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
          height="28"
-         style="border:0; text-decoration:none;"/>
+         style="display:block;">
   </a>
 </p>
 
