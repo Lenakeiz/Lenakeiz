@@ -1,4 +1,4 @@
-<!-- Adding banner image -->
+  <!-- Adding banner image -->
 <div style="width: 100%;">
   <a href="https://github.com/Lenakeiz/Lenakeiz/blame/main/Images/BannerAnimated.svg">
     <img src="./Images/BannerAnimated.svg" style="width: 100%;" alt="Source">
@@ -26,5 +26,6 @@ I am based in London, UK.
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-  <a><img alt="Lenakeiz's Most Used Languages" src=https://github-readme-stats-git-master-andreas-projects-2bcbd98c.vercel.app/api/top-langs?username=Lenakeiz&border_radius=25&card_width=330&layout=donut-vertical&title_color=ff652f&bg_color=09131B&theme=theme&text_color=ffffff&border_color=0c1a25) /></a>
+  <a><img alt="Lenakeiz's Most Used Languages" src=github-readme-stats-fast-git-main-andreas-projects-2bcbd98c.vercel.app/api/top-langs?username=Lenakeiz&layout=compact&theme=radical />
+  </a>
 </details>
