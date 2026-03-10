@@ -13,13 +13,13 @@ I am based in London, UK.
 - 💼 I collaborate with game development companies, offering insights grounded in industry expertise.
 - 🎓 In my free time, I am learning ✨shaders✨.
 <h3>📫 Where to find me</h3>
-<p align="center">
+<p>
   <a href="https://twitter.com/lenakeiz">
-    <img src="https://cdn.simpleicons.org/x" height="32"/>
+    <img alt="X" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="28" />
   </a>
-  &nbsp;&nbsp;
+  
   <a href="https://uk.linkedin.com/in/acastegnaro">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="32"/>
+    <img alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="28" />
   </a>
 </p>
 
