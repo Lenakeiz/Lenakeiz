@@ -14,19 +14,23 @@ I am based in London, UK.
 - 🎓 In my free time, I am learning ✨shaders✨.
 <h3>📫 Where to find me</h3>
 <p>
-  <a href="mailto:andrea.castegnaro@outlook.com">
-    <img alt="Email"
-         src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/maildotru.svg"
-         height="28"
-         style="display:block;">
-  </a>
+  <span style="display:inline-block;">
+    <a href="mailto:andrea.castegnaro@outlook.com">
+      <img alt="Email"
+           src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/maildotru.svg"
+           height="28"
+           style="display:block;">
+    </a>
+  </span>
   &nbsp;&nbsp;
-  <a href="https://uk.linkedin.com/in/acastegnaro">
-    <img alt="LinkedIn"
-         src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
-         height="28"
-         style="display:block;">
-  </a>
+  <span style="display:inline-block;">
+    <a href="https://uk.linkedin.com/in/acastegnaro">
+      <img alt="LinkedIn"
+           src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
+           height="28"
+           style="display:block;">
+    </a>
+  </span>
 </p>
 
 ---
