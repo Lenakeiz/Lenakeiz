@@ -14,12 +14,12 @@ I am based in London, UK.
 - 🎓 In my free time, I am learning ✨shaders✨.
 <h3>📫 Where to find me</h3>
 <p>
-  <a href="https://twitter.com/lenakeiz">
-    <img alt="X" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="28" />
+  <a href="https://twitter.com/lenakeiz" style="text-decoration:none;">
+    <img alt="X" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="28">
   </a>
   &nbsp;&nbsp;
-  <a href="https://uk.linkedin.com/in/acastegnaro">
-    <img alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="28" />
+  <a href="https://uk.linkedin.com/in/acastegnaro" style="text-decoration:none;">
+    <img alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="28">
   </a>
 </p>
 
